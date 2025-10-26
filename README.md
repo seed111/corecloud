@@ -6,11 +6,12 @@ Live URL: https://abrahamseed.s3.us-east-1.amazonaws.com/corecloud.html
 
 Architecture & Technologies i used
 
- Category  | Component    Purpose                                                    
- --------- | -----------  ---------------------------------------------------------- 
- Hosting   | AWS S3        Static Website Hosting, Asset Storage (abrahamseed bucket) 
- Front end | HTML, CSS     Website structure and styling                              
- Tooling   | Git, Python   Version control and local build environment                
+  Category  | Component   | Purpose                                                    |
+| --------- | ----------- | ---------------------------------------------------------- |
+| Hosting   | AWS S3      | Static Website Hosting, Asset Storage (abrahamseed bucket) |
+| Front end | HTML, CSS   | Website structure and styling                              |
+| Tooling   | Git, Python | Version control and local build environment                |
+             
 
 
 Key Implementation Steps
